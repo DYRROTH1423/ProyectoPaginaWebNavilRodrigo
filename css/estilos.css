@@ -46,7 +46,7 @@
 .menusuperior li{
     display:inline;
     padding: 2px;
-    border-right: solid 2px rgb(24, 38, 231);
+    border-right: solid 2px black;
 }
 .menusuperior {
 text-transform:uppercase ;
@@ -75,15 +75,15 @@ padding: 15px;
     width: 80%;
     margin: auto;
 }
-.form{
+form{
     padding:15px;
 }
-.imput{
+imput{
     width: 100%;
     padding: 5px;
     border-radius: 5px;
 }
-.textarea{
+textarea{
     width: 100%;
 }
 
